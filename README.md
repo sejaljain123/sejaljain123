@@ -2,7 +2,7 @@
 <h1 align="center">Hi there👋, I'm Sejal Jain</h1>
 <h3 align="center">A passionate Fullstack Web Developer from India</h3>
 
-- 🌱 I’m currently learning **Typescript, MongoDB**
+- 🌱 I’m currently learning **Typescript, Next.js**
 
 - 💬 Ask me about **React**
 
