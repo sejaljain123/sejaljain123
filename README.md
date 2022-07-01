@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there👋, I'm Sejal Jain</h1>
 <h3 align="center">A passionate Fullstack Web Developer from India</h3>
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/sejaljain123/sejaljain123/blob/master/devcard.svg" width="400" alt="Sejal's Dev Card"/></a>
+<a href="https://app.daily.dev/sejaljain"><img align="right" src="https://api.daily.dev/devcards/57170a46d92f489cbf724e947da8b54f.png?r=hmq" width="300" alt="Sejal Jain's Dev Card"/></a>
 - 🌱 I’m currently learning **Typescript, Next.js**
 
 - 💬 Ask me about **React**
@@ -9,14 +9,6 @@
 - 📫 How to reach me **sejaljain2043@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/sejalja68705849" target="blank"
-    ><img
-      align="center"
-      src="https://img.icons8.com/color/48/000000/twitter--v2.png"
-      alt="sejalja68705849"
-      height="40"
-      width="40"
-  /></a>
   <a href="https://linkedin.com/in/sejaljain2043" target="blank"
     ><img
       align="center"
@@ -183,17 +175,13 @@
   </a>
 </p>
 
-<p>
+<p align="left">
   <img
-    align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=sejaljain123&show_icons=true&locale=en&layout=compact"
     alt="sejaljain123"
   />
-</p>
 
-<p>
-  &nbsp;<img
-    align="left"
+  <img
     src="https://github-readme-stats.vercel.app/api?username=sejaljain123&show_icons=true&locale=en"
     alt="sejaljain123"
   />
