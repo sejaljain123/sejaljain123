@@ -2,9 +2,10 @@
 <h1 align="center">Hi there👋, I'm Sejal Jain</h1>
 <h3 align="center">A passionate Fullstack Web Developer from India</h3>
 <a href="https://app.daily.dev/sejaljain"><img align="right" src="https://api.daily.dev/devcards/57170a46d92f489cbf724e947da8b54f.png?r=hmq" width="300" alt="Sejal Jain's Dev Card"/></a>
-- 🌱 I’m currently learning **Typescript, Next.js**
 
-- 💬 Ask me about **React**
+- 🌱 Learning and Growing
+
+- 💬 Ask me about **React,Nodejs**
 
 - 📫 How to reach me **sejaljain2043@gmail.com**
 <h3 align="left">Connect with me:</h3>
