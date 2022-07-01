@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi there👋, I'm Sejal Jain</h1>
 <h3 align="center">A passionate Fullstack Web Developer from India</h3>
-
-<a href="https://app.daily.dev/sejaljain"><img align="right" src="https://api.daily.dev/devcards/57170a46d92f489cbf724e947da8b54f.png?r=hmq" width="200" alt="Sejal Jain's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/sejaljain123/sejaljain123/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 - 🌱 I’m currently learning **Typescript, Next.js**
 
 - 💬 Ask me about **React**
