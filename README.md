@@ -178,9 +178,12 @@
 </p>
 
 <h6 align="left">Leetcode Stats:</h6>
-![Leetcode Stats](https://leetcard.jacoblin.cool/sejaljain2043?hide=ranking&theme=unicorn)
-
-
+  <img
+      src="[https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png](https://leetcard.jacoblin.cool/sejaljain2043?hide=ranking&theme=unicorn)"
+      alt="mobgoDB"
+      width="400"
+      height="400"
+    />
 <p align="left">  
   <img
     src="https://github-readme-stats.vercel.app/api?username=sejaljain123&show_icons=true&locale=en"
