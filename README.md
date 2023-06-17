@@ -3,9 +3,7 @@
 <h3 align="center">A passionate Fullstack Web Developer from India</h3>
 
 <h6 align="left">Leetcode Stats:</h6>
-<p align="right">
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sejaljain2043?hide=ranking&theme=unicorn)
-  </p>
 
 
 - 🌱 Learning and Growing
