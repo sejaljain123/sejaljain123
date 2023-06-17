@@ -5,8 +5,7 @@
   <p
      >I have a strong passion for coding and love to create innovative web applications. With a solid foundation in frontend and backend development, I enjoy working on projects that challenge me and allow me to continuously learn    and grow as a developer
   </p>
-<a href="https://app.daily.dev/sejaljain"><img align="right" src="https://github.com/sejaljain123/sejaljain123/blob/main/devcard.svg" width="300" alt="Sejal Jain's Dev Card"/></a>
-
+<a href="https://app.daily.dev/sejaljain"><img align = "right" src="https://api.daily.dev/devcards/57170a46d92f489cbf724e947da8b54f.png?r=0bf" width="400" alt="Sejal Jain's Dev Card"/></a>
   <div style="width: 50%;">
     
 - 🌱 Learning and Growing
