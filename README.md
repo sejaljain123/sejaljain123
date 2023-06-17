@@ -181,6 +181,8 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=sejaljain123&show_icons=true&locale=en&layout=compact"
     alt="sejaljain123"
   />
+  
+  [![Sejal's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sejaljain2043)](https://github.com/sejaljain123/leetcode-stats)
 
   <img
     src="https://github-readme-stats.vercel.app/api?username=sejaljain123&show_icons=true&locale=en"
