@@ -2,8 +2,7 @@
 <h1 align="center">Hi there👋, I'm Sejal Jain</h1>
 <h3 align="center">A passionate Fullstack Web Developer from India</h3>
 
-<h6 align="left">Leetcode Stats:</h6>
-[![Sejal's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sejaljain2043&theme=dark)](https://github.com/sejaljain123/leetcode-stats)
+
 
 - 🌱 Learning and Growing
 
@@ -181,7 +180,8 @@
   </p>
 </p>
 
-
+<h6 align="left">Leetcode Stats:</h6>
+[![Sejal's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sejaljain2043&theme=dark)](https://github.com/sejaljain123/leetcode-stats)
 <p align="left">  
   <img
     src="https://github-readme-stats.vercel.app/api?username=sejaljain123&show_icons=true&locale=en"
