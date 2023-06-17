@@ -7,6 +7,8 @@
     src="https://leetcard.jacoblin.cool/sejaljain2043?hide=ranking&theme=unicorn"
     alt="sejaljain123"
   />
+  </p>
+  <p  align="right">
   <img
     src="https://github-readme-stats.vercel.app/api?username=sejaljain123&show_icons=true&locale=en"
     alt="sejaljain123"
