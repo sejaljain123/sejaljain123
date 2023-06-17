@@ -1,11 +1,6 @@
 
 <h1 align="center">Hi there👋, I'm Sejal Jain</h1>
 <h3 align="center">A passionate Fullstack Web Developer from India</h3>
-
-<h6 align="left">Leetcode Stats:</h6>
-![Leetcode Stats](https://leetcard.jacoblin.cool/sejaljain2043?hide=ranking&theme=unicorn)
-
-
 - 🌱 Learning and Growing
 
 - 💬 Ask me about **Web Development**
@@ -182,6 +177,8 @@
   </p>
 </p>
 
+<h6 align="left">Leetcode Stats:</h6>
+![Leetcode Stats](https://leetcard.jacoblin.cool/sejaljain2043?hide=ranking&theme=unicorn)
 
 
 <p align="left">  
