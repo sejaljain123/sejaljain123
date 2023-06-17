@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi there👋, I'm Sejal Jain</h1>
 <h3 align="center">A passionate Fullstack Web Developer from India</h3>
+
+<a href="https://app.daily.dev/sejaljain"><img align="right" src="https://github.com/sejaljain123/sejaljain123/blob/main/devcard.svg" width="300" alt="Sejal Jain's Dev Card"/></a>
+
   <div style="width: 50%;">
     
 - 🌱 Learning and Growing
