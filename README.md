@@ -1,7 +1,10 @@
 
 <h1 align="center">Hi there👋, I'm Sejal Jain</h1>
 <h3 align="center">A passionate Fullstack Web Developer from India</h3>
-<a href="https://app.daily.dev/sejaljain"><img align="right" src="https://github.com/sejaljain123/sejaljain123/blob/main/devcard.svg" width="300" alt="Sejal Jain's Dev Card"/></a>
+<p align="right"> 
+<h6 align="left">Leetcode Stats:</h6>
+[![Sejal's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sejaljain2043)](https://github.com/sejaljain123/leetcode-stats)
+ </p>
 
 - 🌱 Learning and Growing
 
@@ -9,7 +12,7 @@
 
 - 📫 How to reach me **sejaljain2043@gmail.com**
 
-<h6 align="left">Connect with me:</h6>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
   <a href="https://linkedin.com/in/sejaljain2043" target="blank"
     ><img
@@ -179,7 +182,6 @@
   </p>
 </p>
 
-[![Sejal's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sejaljain2043&theme=dark)](https://github.com/sejaljain123/leetcode-stats)
 
 <p align="left">  
   <img
