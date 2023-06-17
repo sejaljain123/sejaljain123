@@ -179,7 +179,7 @@
 
 <h6 align="left">Leetcode Stats:</h6>
   <img
-      src="[https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png](https://leetcard.jacoblin.cool/sejaljain2043?hide=ranking&theme=unicorn)"
+      src="https://leetcard.jacoblin.cool/sejaljain2043?hide=ranking&theme=unicorn"
       alt="mobgoDB"
       width="400"
       height="400"
