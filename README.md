@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Fullstack Web Developer from India</h3>
 
 <h6 align="left">Leetcode Stats:</h6>
-[![Sejal's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sejaljain2043)](https://github.com/sejaljain123/leetcode-stats)
+[![Sejal's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sejaljain2043&theme=dark)](https://github.com/sejaljain123/leetcode-stats)
 
 - 🌱 Learning and Growing
 
