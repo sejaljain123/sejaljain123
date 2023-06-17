@@ -181,7 +181,7 @@
 </p>
 
 <h6 align="left">Leetcode Stats:</h6>
-[![Sejal's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sejaljain2043)](https://github.com/sejaljain123)
+[![Sejal's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sejaljain2043)](https://github.com/KnlnKS/leetcode-stats)
 
 <p align="left">  
   <img
