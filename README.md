@@ -2,6 +2,9 @@
 <h1 align="center">Hi there👋, I'm Sejal Jain</h1>
 <h3 align="center">A passionate Fullstack Web Developer from India</h3>
 
+  <p
+     >I have a strong passion for coding and love to create innovative web applications. With a solid foundation in frontend and backend development, I enjoy working on projects that challenge me and allow me to continuously learn    and grow as a developer
+  </p>
 <a href="https://app.daily.dev/sejaljain"><img align="right" src="https://github.com/sejaljain123/sejaljain123/blob/main/devcard.svg" width="300" alt="Sejal Jain's Dev Card"/></a>
 
   <div style="width: 50%;">
@@ -12,25 +15,7 @@
 
 - 📫 How to reach me **sejaljain2043@gmail.com**
 
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-  <a href="https://linkedin.com/in/sejaljain2043" target="blank"
-    ><img
-      align="center"
-      src="https://img.icons8.com/fluent/48/000000/linkedin.png"
-      alt="sejaljain2043"
-      height="40"
-      width="auto"
-  /></a>
-  <a href="https://instagram.com/sejaljain2001" target="blank"
-    ><img
-      align="center"
-   src="https://img.icons8.com/fluent/48/000000/instagram-new.png"
-      alt="sejaljain2001"
-      height="40"
-      width="auto"
-  /></a>
-</p>
+
 
 <h6 align="left">Languages:</h6>
 <p align="left">
@@ -133,6 +118,14 @@
       height="40"
     />
   </a>
+    <a href="https://docs.aws.amazon.com/lambda/latest/dg/welcome.html" target="_blank">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png"
+      alt="aws"
+      width="auto"
+      height="40"
+    />
+  </a>
    <a href="https://firebase.google.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
@@ -182,11 +175,32 @@
 
   <p> 
   <h6 align="left"> I'm also learning Data Structures and Algorithms 👩🏻‍💻 </h6>
-  <p>
       <img src="https://leetcard.jacoblin.cool/sejaljain2043?hide=ranking&theme=unicorn" alt="sejaljain123" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sejaljain123&show_icons=true&locale=en&layout=compact" alt="sejaljain123"/>
   </p>
+  <p> 
+  <h6 align="left"> I do development in 👩🏻‍💻 </h6>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sejaljain123&show_icons=true&locale=en&layout=compact" alt="sejaljain123"/>
   </p>
+
+<h4 align="left">Find me on:</h4>
+<p align="left">
+  <a href="https://linkedin.com/in/sejaljain2043" target="blank"
+    ><img
+      align="center"
+      src="https://img.icons8.com/fluent/48/000000/linkedin.png"
+      alt="sejaljain2043"
+      height="40"
+      width="auto"
+  /></a>
+  <a href="https://instagram.com/sejaljain2001" target="blank"
+    ><img
+      align="center"
+   src="https://img.icons8.com/fluent/48/000000/instagram-new.png"
+      alt="sejaljain2001"
+      height="40"
+      width="auto"
+  /></a>
+</p>
 
 
 
