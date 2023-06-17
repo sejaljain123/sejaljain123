@@ -1,22 +1,11 @@
 
 <h1 align="center">Hi there👋, I'm Sejal Jain</h1>
 <h3 align="center">A passionate Fullstack Web Developer from India</h3>
-
-<p align="right">  
-  <img
-    src="https://leetcard.jacoblin.cool/sejaljain2043?hide=ranking&theme=unicorn"
-    alt="sejaljain123"
-  />
-  </p>
-  <p  align="right">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sejaljain123&show_icons=true&locale=en"
-    alt="sejaljain123"
-  />
-</p>
+  <div style="width: 50%;">
+    
 - 🌱 Learning and Growing
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **sejaljain2043@gmail.com**
 
@@ -83,11 +72,11 @@
     />
   </a>
   </p>
-  <h6 align="left">Frameworks:</h6>
+  <h6 align="left">Frameworks & Technologies:</h6>
   <p align="left">
   <a href="https://expressjs.com" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://res.cloudinary.com/practicaldev/image/fetch/s--KkScstnJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zojuy79lo3fn3qdt7g6p.png"
       alt="express"
       width="40"
       height="40"
@@ -133,12 +122,9 @@
       height="40"
     />
   </a>
-</p>
-<h6 align="left">Technologies:</h6>
-    <p align="left">
   <a href="https://aws.amazon.com/" target="_blank">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/800px-Amazon_Web_Services_Logo.svg.png"
+      src="https://yt3.googleusercontent.com/yYEgUBYFFIXdz_bvyNBEvOHfBeWAhhNjuiylZaRWUsVE2Mposv2nn2gukykNnBCb1tWWCFzM=s900-c-k-c0x00ffffff-no-rj"
       alt="aws"
       width="40"
       height="40"
@@ -189,5 +175,13 @@
   </a>
   </p>
 </p>
+</div>
+
+  <p> 
+  <h6 align="left"> I'm also learning Data Structures and Algorithms 👩🏻‍💻 </h6>
+      <img src="https://leetcard.jacoblin.cool/sejaljain2043?hide=ranking&theme=unicorn" alt="sejaljain123" />                                                                                                          
+  </p>
+
+
 
 
