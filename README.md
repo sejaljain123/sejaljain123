@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sejaljain2043@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h6 align="left">Connect with me:</h6>
 <p align="left">
   <a href="https://linkedin.com/in/sejaljain2043" target="blank"
     ><img
@@ -29,7 +29,7 @@
   /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
+<h6 align="left">Languages:</h6>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img
@@ -72,7 +72,7 @@
     />
   </a>
   </p>
-  <h3 align="left">Frameworks:</h3>
+  <h6 align="left">Frameworks:</h6>
   <p align="left">
   <a href="https://expressjs.com" target="_blank">
     <img
@@ -123,7 +123,7 @@
     />
   </a>
 </p>
-<h3 align="left">Technologies:</h3>
+<h6 align="left">Technologies:</h6>
     <p align="left">
   <a href="https://aws.amazon.com/" target="_blank">
     <img
@@ -150,7 +150,7 @@
     />
   </a>
 </p>
-<h3 align="left">Databases:</h3>
+<h6 align="left">Databases:</h6>
     <p align="left">
   <a href="https://www.mysql.com/" target="_blank">
     <img
