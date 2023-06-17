@@ -170,16 +170,8 @@
   </a>
      <a href="https://www.mongodb.com/" target="_blank">
     <img
-      src="https://www.turing.com/blog/wp-content/uploads/2022/02/Mongo-DB-Features.jpg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-    <img
-      src="https://www.turing.com/blog/wp-content/uploads/2022/02/Mongo-DB-Features.jpg"
-      alt="postgresql"
+      src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png"
+      alt="mobgoDB"
       width="40"
       height="40"
     />
